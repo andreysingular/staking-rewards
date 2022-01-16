@@ -2,7 +2,7 @@ specVersion: 0.2.0
 name: staking-rewards
 version: 1.0.0
 description: Module 4 Staking Rewards Exercise
-repository: https://github.com/subquery/subql-starter
+repository: https://github.com/andreysingular/staking-rewards
 schema:
   file: ./schema.graphql
 network:
